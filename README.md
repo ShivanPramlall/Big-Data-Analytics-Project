@@ -12,6 +12,7 @@ PART 2
 •  Modelling and Forecasting:
 -	Multiple Linear Regression, Decision Tress Regression Models: Fitted and evaluated using coefficient of determination and RMSE.
 o	Visualized the line of best fit of different machine learning models used for car price prediction.
+
 PART 3
 •  Objective: Building a machine learning model to classify different forest types in Japan.
 •  Data Preparation: Handled missing values, removed outliers and duplicates.
