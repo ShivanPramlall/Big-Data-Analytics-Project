@@ -1,12 +1,14 @@
 Main Objective: Perform Exploratory Data Analysis, Hypothesis Testing, Regression analysis, Classification and Clustering in real-world scenarios within the R ecosystem
 
 PART 1
+
 •  Objective: Conducting a comprehensive analysis of high school student’s last term results to evaluate the various factors that may influence student grades.
 •  Data Preparation: Handled missing values, removed duplicates.
 •  Exploratory Data Analysis: Evaluated and visualized the various factors that may influence student grades.
 •  ANOVA Testing Tukey’s HSD test: Using ANOVA and Tukey’s HSD test to determine whether various factors had an impact of the students’ performance.
 
 PART 2
+
 •  Objective: Building a machine learning model to enhance the efficiency of car pricing process.
 •  Data Preparation: Handled missing values, removed outliers and duplicates, dropped unnecessary columns.
 •  Modelling and Forecasting:
@@ -14,6 +16,7 @@ PART 2
 o	Visualized the line of best fit of different machine learning models used for car price prediction.
 
 PART 3
+
 •  Objective: Building a machine learning model to classify different forest types in Japan.
 •  Data Preparation: Handled missing values, removed outliers and duplicates.
 •  Model: Evaluated and visualized the line of best fit, of different machine learning models used for car price prediction.
