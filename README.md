@@ -4,8 +4,11 @@ Main Objective: Perform Exploratory Data Analysis (EDA), Hypothesis Testing, Reg
 PART 1: Student Performance Analysis
 
 • Objective: Analyze high school students' last-term results to identify factors influencing grades.
+
 • Data Preparation: Handled missing values, removed duplicates.
+
 • Exploratory Data Analysis: Evaluated and visualized the various factors that may influence student grades.
+
 • Statistical Testing: Applied ANOVA and Tukey’s HSD test to assess the impact of different factors on student performance.
 
 
